@@ -1,0 +1,5 @@
+G:\bca4_c#\staticconstructor\staticconstructor\bin\Debug\staticconstructor.exe.config
+G:\bca4_c#\staticconstructor\staticconstructor\bin\Debug\staticconstructor.exe
+G:\bca4_c#\staticconstructor\staticconstructor\bin\Debug\staticconstructor.pdb
+G:\bca4_c#\staticconstructor\staticconstructor\obj\Debug\staticconstructor.exe
+G:\bca4_c#\staticconstructor\staticconstructor\obj\Debug\staticconstructor.pdb

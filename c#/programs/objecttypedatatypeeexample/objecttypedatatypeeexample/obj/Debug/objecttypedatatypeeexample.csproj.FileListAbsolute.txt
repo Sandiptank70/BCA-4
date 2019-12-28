@@ -1,0 +1,5 @@
+G:\bca4_c#\objecttypedatatypeeexample\objecttypedatatypeeexample\bin\Debug\objecttypedatatypeeexample.exe.config
+G:\bca4_c#\objecttypedatatypeeexample\objecttypedatatypeeexample\bin\Debug\objecttypedatatypeeexample.exe
+G:\bca4_c#\objecttypedatatypeeexample\objecttypedatatypeeexample\bin\Debug\objecttypedatatypeeexample.pdb
+G:\bca4_c#\objecttypedatatypeeexample\objecttypedatatypeeexample\obj\Debug\objecttypedatatypeeexample.exe
+G:\bca4_c#\objecttypedatatypeeexample\objecttypedatatypeeexample\obj\Debug\objecttypedatatypeeexample.pdb

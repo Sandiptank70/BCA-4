@@ -1,0 +1,6 @@
+G:\bca4_c#\classandobject\classandobject\bin\Debug\classandobject.exe.config
+G:\bca4_c#\classandobject\classandobject\bin\Debug\classandobject.exe
+G:\bca4_c#\classandobject\classandobject\bin\Debug\classandobject.pdb
+G:\bca4_c#\classandobject\classandobject\obj\Debug\classandobject.csprojResolveAssemblyReference.cache
+G:\bca4_c#\classandobject\classandobject\obj\Debug\classandobject.exe
+G:\bca4_c#\classandobject\classandobject\obj\Debug\classandobject.pdb

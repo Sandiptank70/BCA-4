@@ -1,0 +1,6 @@
+G:\bca4_c#\sealedmethod\sealedmethod\bin\Debug\sealedmethod.exe.config
+G:\bca4_c#\sealedmethod\sealedmethod\bin\Debug\sealedmethod.exe
+G:\bca4_c#\sealedmethod\sealedmethod\bin\Debug\sealedmethod.pdb
+G:\bca4_c#\sealedmethod\sealedmethod\obj\Debug\sealedmethod.csprojResolveAssemblyReference.cache
+G:\bca4_c#\sealedmethod\sealedmethod\obj\Debug\sealedmethod.exe
+G:\bca4_c#\sealedmethod\sealedmethod\obj\Debug\sealedmethod.pdb

@@ -1,0 +1,6 @@
+G:\bca4_c#\readandwriteproperty\readandwriteproperty\bin\Debug\readandwriteproperty.exe.config
+G:\bca4_c#\readandwriteproperty\readandwriteproperty\bin\Debug\readandwriteproperty.exe
+G:\bca4_c#\readandwriteproperty\readandwriteproperty\bin\Debug\readandwriteproperty.pdb
+G:\bca4_c#\readandwriteproperty\readandwriteproperty\obj\Debug\readandwriteproperty.csprojResolveAssemblyReference.cache
+G:\bca4_c#\readandwriteproperty\readandwriteproperty\obj\Debug\readandwriteproperty.exe
+G:\bca4_c#\readandwriteproperty\readandwriteproperty\obj\Debug\readandwriteproperty.pdb

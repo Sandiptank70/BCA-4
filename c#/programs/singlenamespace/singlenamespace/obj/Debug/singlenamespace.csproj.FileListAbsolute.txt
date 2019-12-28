@@ -1,0 +1,5 @@
+G:\bca4_c#\singlenamespace\singlenamespace\bin\Debug\singlenamespace.exe.config
+G:\bca4_c#\singlenamespace\singlenamespace\bin\Debug\singlenamespace.exe
+G:\bca4_c#\singlenamespace\singlenamespace\bin\Debug\singlenamespace.pdb
+G:\bca4_c#\singlenamespace\singlenamespace\obj\Debug\singlenamespace.exe
+G:\bca4_c#\singlenamespace\singlenamespace\obj\Debug\singlenamespace.pdb

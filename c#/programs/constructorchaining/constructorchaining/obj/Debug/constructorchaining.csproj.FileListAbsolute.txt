@@ -1,0 +1,5 @@
+G:\bca4_c#\constructorchaining\constructorchaining\bin\Debug\constructorchaining.exe.config
+G:\bca4_c#\constructorchaining\constructorchaining\bin\Debug\constructorchaining.exe
+G:\bca4_c#\constructorchaining\constructorchaining\bin\Debug\constructorchaining.pdb
+G:\bca4_c#\constructorchaining\constructorchaining\obj\Debug\constructorchaining.exe
+G:\bca4_c#\constructorchaining\constructorchaining\obj\Debug\constructorchaining.pdb

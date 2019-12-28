@@ -1,0 +1,6 @@
+G:\bca4_c#\indexerexample\indexerexample\bin\Debug\indexerexample.exe.config
+G:\bca4_c#\indexerexample\indexerexample\bin\Debug\indexerexample.exe
+G:\bca4_c#\indexerexample\indexerexample\bin\Debug\indexerexample.pdb
+G:\bca4_c#\indexerexample\indexerexample\obj\Debug\indexerexample.csprojResolveAssemblyReference.cache
+G:\bca4_c#\indexerexample\indexerexample\obj\Debug\indexerexample.exe
+G:\bca4_c#\indexerexample\indexerexample\obj\Debug\indexerexample.pdb

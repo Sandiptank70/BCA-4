@@ -1,0 +1,5 @@
+G:\bca4_c#\Multidimarray\Multidimarray\bin\Debug\Multidimarray.exe.config
+G:\bca4_c#\Multidimarray\Multidimarray\bin\Debug\Multidimarray.exe
+G:\bca4_c#\Multidimarray\Multidimarray\bin\Debug\Multidimarray.pdb
+G:\bca4_c#\Multidimarray\Multidimarray\obj\Debug\Multidimarray.exe
+G:\bca4_c#\Multidimarray\Multidimarray\obj\Debug\Multidimarray.pdb

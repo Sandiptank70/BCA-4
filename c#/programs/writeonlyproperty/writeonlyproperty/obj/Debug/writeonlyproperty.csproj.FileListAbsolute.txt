@@ -1,0 +1,5 @@
+G:\bca4_c#\writeonlyproperty\writeonlyproperty\bin\Debug\writeonlyproperty.exe.config
+G:\bca4_c#\writeonlyproperty\writeonlyproperty\bin\Debug\writeonlyproperty.exe
+G:\bca4_c#\writeonlyproperty\writeonlyproperty\bin\Debug\writeonlyproperty.pdb
+G:\bca4_c#\writeonlyproperty\writeonlyproperty\obj\Debug\writeonlyproperty.exe
+G:\bca4_c#\writeonlyproperty\writeonlyproperty\obj\Debug\writeonlyproperty.pdb

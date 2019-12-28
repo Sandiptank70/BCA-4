@@ -1,0 +1,6 @@
+G:\bca4_c#\thiskeyword\thiskeyword\bin\Debug\thiskeyword.exe.config
+G:\bca4_c#\thiskeyword\thiskeyword\bin\Debug\thiskeyword.exe
+G:\bca4_c#\thiskeyword\thiskeyword\bin\Debug\thiskeyword.pdb
+G:\bca4_c#\thiskeyword\thiskeyword\obj\Debug\thiskeyword.csprojResolveAssemblyReference.cache
+G:\bca4_c#\thiskeyword\thiskeyword\obj\Debug\thiskeyword.exe
+G:\bca4_c#\thiskeyword\thiskeyword\obj\Debug\thiskeyword.pdb

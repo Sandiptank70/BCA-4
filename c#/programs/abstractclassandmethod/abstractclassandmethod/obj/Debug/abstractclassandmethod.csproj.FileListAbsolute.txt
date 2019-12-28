@@ -1,0 +1,6 @@
+G:\bca4_c#\abstractclassandmethod\abstractclassandmethod\bin\Debug\abstractclassandmethod.exe.config
+G:\bca4_c#\abstractclassandmethod\abstractclassandmethod\bin\Debug\abstractclassandmethod.exe
+G:\bca4_c#\abstractclassandmethod\abstractclassandmethod\bin\Debug\abstractclassandmethod.pdb
+G:\bca4_c#\abstractclassandmethod\abstractclassandmethod\obj\Debug\abstractclassandmethod.csprojResolveAssemblyReference.cache
+G:\bca4_c#\abstractclassandmethod\abstractclassandmethod\obj\Debug\abstractclassandmethod.exe
+G:\bca4_c#\abstractclassandmethod\abstractclassandmethod\obj\Debug\abstractclassandmethod.pdb

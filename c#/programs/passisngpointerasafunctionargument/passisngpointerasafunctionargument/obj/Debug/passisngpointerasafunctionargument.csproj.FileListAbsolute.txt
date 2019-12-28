@@ -1,0 +1,5 @@
+G:\bca4_c#\passisngpointerasafunctionargument\passisngpointerasafunctionargument\bin\Debug\passisngpointerasafunctionargument.exe.config
+G:\bca4_c#\passisngpointerasafunctionargument\passisngpointerasafunctionargument\bin\Debug\passisngpointerasafunctionargument.exe
+G:\bca4_c#\passisngpointerasafunctionargument\passisngpointerasafunctionargument\bin\Debug\passisngpointerasafunctionargument.pdb
+G:\bca4_c#\passisngpointerasafunctionargument\passisngpointerasafunctionargument\obj\Debug\passisngpointerasafunctionargument.exe
+G:\bca4_c#\passisngpointerasafunctionargument\passisngpointerasafunctionargument\obj\Debug\passisngpointerasafunctionargument.pdb

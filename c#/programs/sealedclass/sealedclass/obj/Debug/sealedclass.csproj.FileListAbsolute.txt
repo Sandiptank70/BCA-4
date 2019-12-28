@@ -1,0 +1,5 @@
+G:\bca4_c#\sealedclass\sealedclass\bin\Debug\sealedclass.exe.config
+G:\bca4_c#\sealedclass\sealedclass\bin\Debug\sealedclass.exe
+G:\bca4_c#\sealedclass\sealedclass\bin\Debug\sealedclass.pdb
+G:\bca4_c#\sealedclass\sealedclass\obj\Debug\sealedclass.exe
+G:\bca4_c#\sealedclass\sealedclass\obj\Debug\sealedclass.pdb

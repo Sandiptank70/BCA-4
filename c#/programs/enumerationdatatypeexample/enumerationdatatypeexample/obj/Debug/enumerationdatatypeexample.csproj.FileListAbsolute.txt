@@ -1,0 +1,6 @@
+G:\bca4_c#\enumerationdatatypeexample\enumerationdatatypeexample\bin\Debug\enumerationdatatypeexample.exe.config
+G:\bca4_c#\enumerationdatatypeexample\enumerationdatatypeexample\bin\Debug\enumerationdatatypeexample.exe
+G:\bca4_c#\enumerationdatatypeexample\enumerationdatatypeexample\bin\Debug\enumerationdatatypeexample.pdb
+G:\bca4_c#\enumerationdatatypeexample\enumerationdatatypeexample\obj\Debug\enumerationdatatypeexample.csprojResolveAssemblyReference.cache
+G:\bca4_c#\enumerationdatatypeexample\enumerationdatatypeexample\obj\Debug\enumerationdatatypeexample.exe
+G:\bca4_c#\enumerationdatatypeexample\enumerationdatatypeexample\obj\Debug\enumerationdatatypeexample.pdb

@@ -1,0 +1,5 @@
+G:\bca4_c#\whileloop\whileloop\bin\Debug\whileloop.exe.config
+G:\bca4_c#\whileloop\whileloop\bin\Debug\whileloop.exe
+G:\bca4_c#\whileloop\whileloop\bin\Debug\whileloop.pdb
+G:\bca4_c#\whileloop\whileloop\obj\Debug\whileloop.exe
+G:\bca4_c#\whileloop\whileloop\obj\Debug\whileloop.pdb

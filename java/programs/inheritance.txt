@@ -1,0 +1,17 @@
+
+Inheritance
+
+	reusability of code.
+
+Types of Inheritance
+	
+	- Single Inheritance
+	- Multilevel Inheritance
+	- Hierarchical Inheritance
+	- Hybrid Inheritance
+
+
+	- Multiple Inheritance (not in JAVA)
+
+
+	extends

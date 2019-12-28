@@ -1,0 +1,6 @@
+G:\bca4_c#\multilevelinheritance\multilevelinheritance\bin\Debug\multilevelinheritance.exe.config
+G:\bca4_c#\multilevelinheritance\multilevelinheritance\bin\Debug\multilevelinheritance.exe
+G:\bca4_c#\multilevelinheritance\multilevelinheritance\bin\Debug\multilevelinheritance.pdb
+G:\bca4_c#\multilevelinheritance\multilevelinheritance\obj\Debug\multilevelinheritance.csprojResolveAssemblyReference.cache
+G:\bca4_c#\multilevelinheritance\multilevelinheritance\obj\Debug\multilevelinheritance.exe
+G:\bca4_c#\multilevelinheritance\multilevelinheritance\obj\Debug\multilevelinheritance.pdb

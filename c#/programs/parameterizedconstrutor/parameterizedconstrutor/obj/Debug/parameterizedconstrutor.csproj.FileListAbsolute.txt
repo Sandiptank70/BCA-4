@@ -1,0 +1,5 @@
+G:\bca4_c#\parameterizedconstrutor\parameterizedconstrutor\bin\Debug\parameterizedconstrutor.exe.config
+G:\bca4_c#\parameterizedconstrutor\parameterizedconstrutor\bin\Debug\parameterizedconstrutor.exe
+G:\bca4_c#\parameterizedconstrutor\parameterizedconstrutor\bin\Debug\parameterizedconstrutor.pdb
+G:\bca4_c#\parameterizedconstrutor\parameterizedconstrutor\obj\Debug\parameterizedconstrutor.exe
+G:\bca4_c#\parameterizedconstrutor\parameterizedconstrutor\obj\Debug\parameterizedconstrutor.pdb

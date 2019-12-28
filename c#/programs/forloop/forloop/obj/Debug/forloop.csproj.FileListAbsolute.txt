@@ -1,0 +1,6 @@
+G:\bca4_c#\forloop\forloop\bin\Debug\forloop.exe.config
+G:\bca4_c#\forloop\forloop\bin\Debug\forloop.exe
+G:\bca4_c#\forloop\forloop\bin\Debug\forloop.pdb
+G:\bca4_c#\forloop\forloop\obj\Debug\forloop.csprojResolveAssemblyReference.cache
+G:\bca4_c#\forloop\forloop\obj\Debug\forloop.exe
+G:\bca4_c#\forloop\forloop\obj\Debug\forloop.pdb

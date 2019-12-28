@@ -1,0 +1,6 @@
+G:\bca4_c#\partialclass\partialclass\bin\Debug\partialclass.exe.config
+G:\bca4_c#\partialclass\partialclass\bin\Debug\partialclass.exe
+G:\bca4_c#\partialclass\partialclass\bin\Debug\partialclass.pdb
+G:\bca4_c#\partialclass\partialclass\obj\Debug\partialclass.csprojResolveAssemblyReference.cache
+G:\bca4_c#\partialclass\partialclass\obj\Debug\partialclass.exe
+G:\bca4_c#\partialclass\partialclass\obj\Debug\partialclass.pdb

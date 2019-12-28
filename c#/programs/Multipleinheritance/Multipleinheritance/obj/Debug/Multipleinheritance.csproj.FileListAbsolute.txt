@@ -1,0 +1,6 @@
+G:\bca4_c#\Multipleinheritance\Multipleinheritance\bin\Debug\Multipleinheritance.exe.config
+G:\bca4_c#\Multipleinheritance\Multipleinheritance\bin\Debug\Multipleinheritance.exe
+G:\bca4_c#\Multipleinheritance\Multipleinheritance\bin\Debug\Multipleinheritance.pdb
+G:\bca4_c#\Multipleinheritance\Multipleinheritance\obj\Debug\Multipleinheritance.csprojResolveAssemblyReference.cache
+G:\bca4_c#\Multipleinheritance\Multipleinheritance\obj\Debug\Multipleinheritance.exe
+G:\bca4_c#\Multipleinheritance\Multipleinheritance\obj\Debug\Multipleinheritance.pdb

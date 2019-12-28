@@ -1,0 +1,6 @@
+G:\bca4_c#\pointerexample\pointerexample\bin\Debug\pointerexample.exe.config
+G:\bca4_c#\pointerexample\pointerexample\obj\Debug\pointerexample.csprojResolveAssemblyReference.cache
+G:\bca4_c#\pointerexample\pointerexample\bin\Debug\pointerexample.exe
+G:\bca4_c#\pointerexample\pointerexample\bin\Debug\pointerexample.pdb
+G:\bca4_c#\pointerexample\pointerexample\obj\Debug\pointerexample.exe
+G:\bca4_c#\pointerexample\pointerexample\obj\Debug\pointerexample.pdb

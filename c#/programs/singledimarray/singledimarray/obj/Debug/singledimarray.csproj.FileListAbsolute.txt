@@ -1,0 +1,6 @@
+G:\bca4_c#\singledimarray\singledimarray\bin\Debug\singledimarray.exe.config
+G:\bca4_c#\singledimarray\singledimarray\bin\Debug\singledimarray.exe
+G:\bca4_c#\singledimarray\singledimarray\bin\Debug\singledimarray.pdb
+G:\bca4_c#\singledimarray\singledimarray\obj\Debug\singledimarray.csprojResolveAssemblyReference.cache
+G:\bca4_c#\singledimarray\singledimarray\obj\Debug\singledimarray.exe
+G:\bca4_c#\singledimarray\singledimarray\obj\Debug\singledimarray.pdb

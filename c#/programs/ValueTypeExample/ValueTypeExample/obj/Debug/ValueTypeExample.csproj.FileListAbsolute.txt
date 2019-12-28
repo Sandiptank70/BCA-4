@@ -1,0 +1,5 @@
+G:\bca4_c#\ValueTypeExample\ValueTypeExample\bin\Debug\ValueTypeExample.exe.config
+G:\bca4_c#\ValueTypeExample\ValueTypeExample\bin\Debug\ValueTypeExample.exe
+G:\bca4_c#\ValueTypeExample\ValueTypeExample\bin\Debug\ValueTypeExample.pdb
+G:\bca4_c#\ValueTypeExample\ValueTypeExample\obj\Debug\ValueTypeExample.exe
+G:\bca4_c#\ValueTypeExample\ValueTypeExample\obj\Debug\ValueTypeExample.pdb

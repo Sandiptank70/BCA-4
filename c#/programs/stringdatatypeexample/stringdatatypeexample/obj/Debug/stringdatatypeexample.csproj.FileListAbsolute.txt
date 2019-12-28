@@ -1,0 +1,5 @@
+G:\bca4_c#\stringdatatypeexample\stringdatatypeexample\bin\Debug\stringdatatypeexample.exe.config
+G:\bca4_c#\stringdatatypeexample\stringdatatypeexample\bin\Debug\stringdatatypeexample.exe
+G:\bca4_c#\stringdatatypeexample\stringdatatypeexample\bin\Debug\stringdatatypeexample.pdb
+G:\bca4_c#\stringdatatypeexample\stringdatatypeexample\obj\Debug\stringdatatypeexample.exe
+G:\bca4_c#\stringdatatypeexample\stringdatatypeexample\obj\Debug\stringdatatypeexample.pdb

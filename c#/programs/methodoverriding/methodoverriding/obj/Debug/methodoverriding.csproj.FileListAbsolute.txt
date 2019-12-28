@@ -1,0 +1,6 @@
+G:\bca4_c#\methodoverriding\methodoverriding\bin\Debug\methodoverriding.exe.config
+G:\bca4_c#\methodoverriding\methodoverriding\bin\Debug\methodoverriding.exe
+G:\bca4_c#\methodoverriding\methodoverriding\bin\Debug\methodoverriding.pdb
+G:\bca4_c#\methodoverriding\methodoverriding\obj\Debug\methodoverriding.csprojResolveAssemblyReference.cache
+G:\bca4_c#\methodoverriding\methodoverriding\obj\Debug\methodoverriding.exe
+G:\bca4_c#\methodoverriding\methodoverriding\obj\Debug\methodoverriding.pdb

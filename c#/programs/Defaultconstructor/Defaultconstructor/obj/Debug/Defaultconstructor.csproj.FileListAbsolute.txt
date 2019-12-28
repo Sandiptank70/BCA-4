@@ -1,0 +1,6 @@
+G:\bca4_c#\Defaultconstructor\Defaultconstructor\bin\Debug\Defaultconstructor.exe.config
+G:\bca4_c#\Defaultconstructor\Defaultconstructor\bin\Debug\Defaultconstructor.exe
+G:\bca4_c#\Defaultconstructor\Defaultconstructor\bin\Debug\Defaultconstructor.pdb
+G:\bca4_c#\Defaultconstructor\Defaultconstructor\obj\Debug\Defaultconstructor.csprojResolveAssemblyReference.cache
+G:\bca4_c#\Defaultconstructor\Defaultconstructor\obj\Debug\Defaultconstructor.exe
+G:\bca4_c#\Defaultconstructor\Defaultconstructor\obj\Debug\Defaultconstructor.pdb

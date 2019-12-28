@@ -1,0 +1,6 @@
+G:\bca4_c#\constructorinheritance\constructorinheritance\bin\Debug\constructorinheritance.exe.config
+G:\bca4_c#\constructorinheritance\constructorinheritance\bin\Debug\constructorinheritance.exe
+G:\bca4_c#\constructorinheritance\constructorinheritance\bin\Debug\constructorinheritance.pdb
+G:\bca4_c#\constructorinheritance\constructorinheritance\obj\Debug\constructorinheritance.csprojResolveAssemblyReference.cache
+G:\bca4_c#\constructorinheritance\constructorinheritance\obj\Debug\constructorinheritance.exe
+G:\bca4_c#\constructorinheritance\constructorinheritance\obj\Debug\constructorinheritance.pdb

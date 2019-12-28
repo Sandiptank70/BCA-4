@@ -1,0 +1,6 @@
+G:\bca4_c#\readonlyproperty\readonlyproperty\bin\Debug\readonlyproperty.exe.config
+G:\bca4_c#\readonlyproperty\readonlyproperty\obj\Debug\readonlyproperty.csprojResolveAssemblyReference.cache
+G:\bca4_c#\readonlyproperty\readonlyproperty\bin\Debug\readonlyproperty.exe
+G:\bca4_c#\readonlyproperty\readonlyproperty\bin\Debug\readonlyproperty.pdb
+G:\bca4_c#\readonlyproperty\readonlyproperty\obj\Debug\readonlyproperty.exe
+G:\bca4_c#\readonlyproperty\readonlyproperty\obj\Debug\readonlyproperty.pdb

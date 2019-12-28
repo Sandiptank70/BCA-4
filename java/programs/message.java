@@ -1,10 +1,8 @@
-
-public class message {
-    public static void main(String args[])
-    {
-        System.out.println("hello world km chho");
-        System.out.println("maja ma ne badha");
-        System.out.print("hello world km chho");
-        System.out.println("maja ma ne badha");
-    }
+class Message
+{
+	public static void main(String arg[])
+	{
+		System.out.println("Java is an OOP");
+		System.out.println("Java is case sensitive");
+	}
 }

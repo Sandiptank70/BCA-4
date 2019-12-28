@@ -1,0 +1,6 @@
+G:\bca4_c#\outparameter\outparameter\bin\Debug\outparameter.exe.config
+G:\bca4_c#\outparameter\outparameter\bin\Debug\outparameter.exe
+G:\bca4_c#\outparameter\outparameter\bin\Debug\outparameter.pdb
+G:\bca4_c#\outparameter\outparameter\obj\Debug\outparameter.csprojResolveAssemblyReference.cache
+G:\bca4_c#\outparameter\outparameter\obj\Debug\outparameter.exe
+G:\bca4_c#\outparameter\outparameter\obj\Debug\outparameter.pdb

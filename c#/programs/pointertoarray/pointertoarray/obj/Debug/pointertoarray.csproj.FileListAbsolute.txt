@@ -1,0 +1,6 @@
+G:\bca4_c#\pointertoarray\pointertoarray\bin\Debug\pointertoarray.exe.config
+G:\bca4_c#\pointertoarray\pointertoarray\bin\Debug\pointertoarray.exe
+G:\bca4_c#\pointertoarray\pointertoarray\bin\Debug\pointertoarray.pdb
+G:\bca4_c#\pointertoarray\pointertoarray\obj\Debug\pointertoarray.csprojResolveAssemblyReference.cache
+G:\bca4_c#\pointertoarray\pointertoarray\obj\Debug\pointertoarray.exe
+G:\bca4_c#\pointertoarray\pointertoarray\obj\Debug\pointertoarray.pdb

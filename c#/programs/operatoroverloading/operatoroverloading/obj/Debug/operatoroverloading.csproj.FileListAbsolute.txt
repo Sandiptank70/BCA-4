@@ -1,0 +1,6 @@
+G:\bca4_c#\operatoroverloading\operatoroverloading\bin\Debug\operatoroverloading.exe.config
+G:\bca4_c#\operatoroverloading\operatoroverloading\bin\Debug\operatoroverloading.exe
+G:\bca4_c#\operatoroverloading\operatoroverloading\bin\Debug\operatoroverloading.pdb
+G:\bca4_c#\operatoroverloading\operatoroverloading\obj\Debug\operatoroverloading.csprojResolveAssemblyReference.cache
+G:\bca4_c#\operatoroverloading\operatoroverloading\obj\Debug\operatoroverloading.exe
+G:\bca4_c#\operatoroverloading\operatoroverloading\obj\Debug\operatoroverloading.pdb

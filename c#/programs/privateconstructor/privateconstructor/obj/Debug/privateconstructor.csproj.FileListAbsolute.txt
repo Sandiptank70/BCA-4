@@ -1,0 +1,1 @@
+G:\bca4_c#\privateconstructor\privateconstructor\bin\Debug\privateconstructor.exe.config

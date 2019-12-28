@@ -1,0 +1,5 @@
+G:\bca4_c#\staticclass\staticclass\bin\Debug\staticclass.exe.config
+G:\bca4_c#\staticclass\staticclass\bin\Debug\staticclass.exe
+G:\bca4_c#\staticclass\staticclass\bin\Debug\staticclass.pdb
+G:\bca4_c#\staticclass\staticclass\obj\Debug\staticclass.exe
+G:\bca4_c#\staticclass\staticclass\obj\Debug\staticclass.pdb

@@ -1,0 +1,5 @@
+G:\bca4_c#\nestednamespace\nestednamespace\bin\Debug\nestednamespace.exe.config
+G:\bca4_c#\nestednamespace\nestednamespace\bin\Debug\nestednamespace.exe
+G:\bca4_c#\nestednamespace\nestednamespace\bin\Debug\nestednamespace.pdb
+G:\bca4_c#\nestednamespace\nestednamespace\obj\Debug\nestednamespace.exe
+G:\bca4_c#\nestednamespace\nestednamespace\obj\Debug\nestednamespace.pdb

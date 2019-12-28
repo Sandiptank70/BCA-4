@@ -1,0 +1,6 @@
+G:\bca4_c#\PrintMessage\PrintMessage\bin\Debug\PrintMessage.exe.config
+G:\bca4_c#\PrintMessage\PrintMessage\bin\Debug\PrintMessage.exe
+G:\bca4_c#\PrintMessage\PrintMessage\bin\Debug\PrintMessage.pdb
+G:\bca4_c#\PrintMessage\PrintMessage\obj\Debug\PrintMessage.csprojResolveAssemblyReference.cache
+G:\bca4_c#\PrintMessage\PrintMessage\obj\Debug\PrintMessage.exe
+G:\bca4_c#\PrintMessage\PrintMessage\obj\Debug\PrintMessage.pdb

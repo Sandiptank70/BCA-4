@@ -1,0 +1,5 @@
+G:\bca4_c#\refkeyword\refkeyword\bin\Debug\refkeyword.exe.config
+G:\bca4_c#\refkeyword\refkeyword\bin\Debug\refkeyword.exe
+G:\bca4_c#\refkeyword\refkeyword\bin\Debug\refkeyword.pdb
+G:\bca4_c#\refkeyword\refkeyword\obj\Debug\refkeyword.exe
+G:\bca4_c#\refkeyword\refkeyword\obj\Debug\refkeyword.pdb

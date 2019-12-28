@@ -1,0 +1,6 @@
+G:\bca4_c#\simpleinterface\simpleinterface\bin\Debug\simpleinterface.exe.config
+G:\bca4_c#\simpleinterface\simpleinterface\obj\Debug\simpleinterface.csprojResolveAssemblyReference.cache
+G:\bca4_c#\simpleinterface\simpleinterface\bin\Debug\simpleinterface.exe
+G:\bca4_c#\simpleinterface\simpleinterface\bin\Debug\simpleinterface.pdb
+G:\bca4_c#\simpleinterface\simpleinterface\obj\Debug\simpleinterface.exe
+G:\bca4_c#\simpleinterface\simpleinterface\obj\Debug\simpleinterface.pdb

@@ -1,0 +1,5 @@
+G:\bca4_c#\readonlydatamember\readonlydatamember\bin\Debug\readonlydatamember.exe.config
+G:\bca4_c#\readonlydatamember\readonlydatamember\bin\Debug\readonlydatamember.exe
+G:\bca4_c#\readonlydatamember\readonlydatamember\bin\Debug\readonlydatamember.pdb
+G:\bca4_c#\readonlydatamember\readonlydatamember\obj\Debug\readonlydatamember.exe
+G:\bca4_c#\readonlydatamember\readonlydatamember\obj\Debug\readonlydatamember.pdb

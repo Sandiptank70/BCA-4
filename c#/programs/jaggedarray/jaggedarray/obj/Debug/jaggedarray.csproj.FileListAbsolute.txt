@@ -1,0 +1,6 @@
+G:\bca4_c#\jaggedarray\jaggedarray\bin\Debug\jaggedarray.exe.config
+G:\bca4_c#\jaggedarray\jaggedarray\bin\Debug\jaggedarray.exe
+G:\bca4_c#\jaggedarray\jaggedarray\bin\Debug\jaggedarray.pdb
+G:\bca4_c#\jaggedarray\jaggedarray\obj\Debug\jaggedarray.csprojResolveAssemblyReference.cache
+G:\bca4_c#\jaggedarray\jaggedarray\obj\Debug\jaggedarray.exe
+G:\bca4_c#\jaggedarray\jaggedarray\obj\Debug\jaggedarray.pdb
